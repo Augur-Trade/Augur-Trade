@@ -12,6 +12,7 @@
   <a href="https://augur-trade.com"><img src="https://img.shields.io/badge/website-augur--trade.com-8b5cf6?style=for-the-badge&labelColor=0c0a13" alt="Website"></a>
   <a href="https://augur-trade.com/app/?explore=1"><img src="https://img.shields.io/badge/live_demo-try_it-33e2a0?style=for-the-badge&labelColor=0c0a13" alt="Live demo"></a>
   <a href="https://github.com/Augur-Trade/augur"><img src="https://img.shields.io/badge/product_tour-README-b49aff?style=for-the-badge&labelColor=0c0a13" alt="Product tour"></a>
+  <a href="https://github.com/Augur-Trade/augur/blob/main/docs/README.md"><img src="https://img.shields.io/badge/docs-every_feature-ece8f6?style=for-the-badge&labelColor=0c0a13" alt="Documentation"></a>
   <a href="https://github.com/Augur-Trade/rugscope"><img src="https://img.shields.io/badge/rugscope-free_rug_checker-ff5470?style=for-the-badge&labelColor=0c0a13" alt="Rugscope"></a>
   <a href="https://github.com/Augur-Trade/synapse"><img src="https://img.shields.io/badge/synapse-79_agent_tools-e8b64f?style=for-the-badge&labelColor=0c0a13" alt="Synapse"></a>
 </p>
