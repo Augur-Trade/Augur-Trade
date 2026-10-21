@@ -10,6 +10,8 @@
 
 <p align="center">
   <a href="https://augur-trade.com"><img src="https://img.shields.io/badge/website-augur--trade.com-8b5cf6?style=for-the-badge&labelColor=0c0a13" alt="Website"></a>
+  <a href="https://x.com/AUGURtrading"><img src="https://img.shields.io/badge/follow-@AUGURtrading-ece8f6?style=for-the-badge&logo=x&labelColor=0c0a13" alt="Follow on X"></a>
+  <a href="https://t.me/AUGUR_Trade"><img src="https://img.shields.io/badge/telegram-AUGUR__Trade-29a9eb?style=for-the-badge&logo=telegram&labelColor=0c0a13" alt="Telegram"></a>
   <a href="https://augur-trade.com/app/?explore=1"><img src="https://img.shields.io/badge/live_demo-try_it-33e2a0?style=for-the-badge&labelColor=0c0a13" alt="Live demo"></a>
   <a href="https://github.com/Augur-Trade/augur"><img src="https://img.shields.io/badge/product_tour-README-b49aff?style=for-the-badge&labelColor=0c0a13" alt="Product tour"></a>
   <a href="https://github.com/Augur-Trade/augur/blob/main/docs/README.md"><img src="https://img.shields.io/badge/docs-every_feature-ece8f6?style=for-the-badge&labelColor=0c0a13" alt="Documentation"></a>
