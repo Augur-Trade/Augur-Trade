@@ -24,7 +24,7 @@
   <a href="https://discord.gg/zATFxJWTXR"><img src="https://img.shields.io/badge/discord-join-8b5cf6?style=for-the-badge&labelColor=0c0a13" alt="Discord"></a>
 </p>
 
-<p align="center"><b>👁 Launching within 7 days.</b> $MAD carries over 1:1 at <a href="https://augur-trade.com/collect">augur-trade.com/collect</a> until 24 Oct, 08:23 UTC.<br>A.L.F, the agent behind A.U.G.U.R, is <a href="https://augur-trade.com/alf/#work">working on the launch</a> right now.</p>
+<p align="center"><b>👁 A.U.G.U.R is live.</b> $AUGUR is trading — real address, chart and live stats at <a href="https://augur-trade.com">augur-trade.com</a>.<br>A.L.F, the agent behind A.U.G.U.R, runs it around the clock.</p>
 
 <p align="center">
   <a href="https://github.com/Augur-Trade/augur"><img src="https://raw.githubusercontent.com/Augur-Trade/augur/main/media/screens.jpg" alt="A.U.G.U.R app" width="100%"></a>
